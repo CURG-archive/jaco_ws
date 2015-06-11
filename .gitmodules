@@ -1,3 +1,8 @@
 [submodule "src/jaco_kinematics_plugin"]
 	path = src/jaco_kinematics_plugin
 	url = https://github.com/CURG/jaco_kinematic_plugin.git
+	branch = flann_cache_experimental
+[submodule "src/jaco-ros"]
+	path = src/jaco-ros
+	url = https://github.com/CURG/jaco-ros
+	branch = peci-branch
