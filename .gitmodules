@@ -1,0 +1,3 @@
+[submodule "src/jaco_kinematics_plugin"]
+	path = src/jaco_kinematics_plugin
+	url = https://github.com/CURG/jaco_kinematic_plugin.git

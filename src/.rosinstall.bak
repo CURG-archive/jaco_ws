@@ -1,0 +1,1 @@
+- git: {local-name: jaco-ros, uri: 'https://github.com/CURG/jaco-ros.git', version: peci-branch}

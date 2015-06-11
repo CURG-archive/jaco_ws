@@ -1,0 +1,2 @@
+- git: {local-name: jaco-ros, uri: 'https://github.com/CURG/jaco-ros.git', version: peci-branch}
+- git: {local-name: jaco_kinematics_plugin, uri: 'https://github.com/CURG/jaco_kinematic_plugin.git', version: flann_cache_experimental}
